@@ -1,0 +1,1 @@
+install(FILES 50-suspend-prevent.rules DESTINATION etc/udev/rules.d PERMISSIONS OWNER_READ OWNER_WRITE GROUP_READ WORLD_READ)
